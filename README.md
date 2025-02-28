@@ -9,7 +9,7 @@
 
 <br>
 
-## Hi there 👋
+<h1>Hi 👋, I'm Ming Han </h1>
 
 My name is Ming Han Yang (楊明翰) and interested in biotechnology , artificial intelligence and machine learning. 
 I am currently a bioinformatics software engineer and also had  experience in a startup company of natural language processing and machine learning.

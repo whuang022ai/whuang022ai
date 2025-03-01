@@ -21,6 +21,7 @@ I am currently a bioinformatics software engineer and also had  experience in a 
 - https://aistudio.tw
 - https://www.next-bioinfo.tw/
 - https://www.linkedin.com/in/ming-han-yang-us/
+- https://www.facebook.com/Yang.Ming.Han.tw
 
 <!--
 **whuang022ai/whuang022ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

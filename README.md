@@ -25,7 +25,11 @@ I have another github account : https://github.com/whuang022nccu
 
 ### Contact with Me
 - https://www.linkedin.com/in/ming-han-yang-us/
-- https://www.facebook.com/Yang.Ming.Han.tw
+
+- [![][fb-shield]][fb]
+
+[fb]: https://www.facebook.com/Yang.Ming.Han.tw
+[fb-shield]: https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&labelColor=black&logo=facebook
 
 <!--
 **whuang022ai/whuang022ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

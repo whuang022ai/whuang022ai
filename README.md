@@ -22,7 +22,7 @@ I have another github account : https://github.com/whuang022nccu
 - [www.next-bioinfo.tw](https://www.next-bioinfo.tw/en/)
 - [aistudio.tw](https://aistudio.tw/)
 
-## New Posts
+### New Posts
 
 - [Gene2vec distributed representation of genes pipeline reproduction](https://www.next-bioinfo.tw/en/?p=408)
 

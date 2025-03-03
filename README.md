@@ -19,8 +19,9 @@ I am currently a bioinformatics software engineer and also had  experience in a 
 I have another github account : https://github.com/whuang022nccu
 ### Connect with me 
 
-- https://aistudio.tw
-- https://www.next-bioinfo.tw/
+- aistudio.tw
+- www.next-bioinfo.tw
+
 - https://www.linkedin.com/in/ming-han-yang-us/
 - https://www.facebook.com/Yang.Ming.Han.tw
 

@@ -11,17 +11,19 @@
 
 <h1>Hello All 👋 </h1>
 
-### About me
+### About Me
 
 My name is Ming Han Yang (楊明翰) and interested in biotechnology , artificial intelligence and machine learning. 
 I am currently a bioinformatics software engineer and also had  experience in a startup company of natural language processing and machine learning.
-
 I have another github account : https://github.com/whuang022nccu
-### Connect with me 
 
-- aistudio.tw
-- www.next-bioinfo.tw
+### AI & Biotechnology Research Website
 
+- [www.next-bioinfo.tw](https://www.next-bioinfo.tw/en/)
+- [aistudio.tw](https://aistudio.tw/)
+
+
+### Contact with Me
 - https://www.linkedin.com/in/ming-han-yang-us/
 - https://www.facebook.com/Yang.Ming.Han.tw
 

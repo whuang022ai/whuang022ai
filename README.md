@@ -11,18 +11,18 @@
 
 <h1>Hello All 👋 </h1>
 
-### 🍻 About Me
+### About Me
 
 My name is Ming Han Yang (楊明翰) and interested in biotechnology , artificial intelligence and machine learning. 
 I am currently a bioinformatics software engineer and also had  experience in a startup company of natural language processing and machine learning.
 I have another github account : https://github.com/whuang022nccu
 
-### 🌎 AI & Biotechnology Research Website
+### AI & Biotechnology Research Website
 
 - [www.next-bioinfo.tw](https://www.next-bioinfo.tw/en/)
 - [aistudio.tw](https://aistudio.tw/)
 
-## 🚀 New Posts
+## New Posts
 
 - [Gene2vec distributed representation of genes pipeline reproduction](https://www.next-bioinfo.tw/en/?p=408)
 

@@ -24,12 +24,12 @@ I have another github account : https://github.com/whuang022nccu
 
 
 ### Contact with Me
-- https://www.linkedin.com/in/ming-han-yang-us/
 
-- [![][fb-shield]][fb]
+- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]( https://www.linkedin.com/in/ming-han-yang-us/) https://www.linkedin.com/in/ming-han-yang-us/
 
-[fb]: https://www.facebook.com/Yang.Ming.Han.tw
-[fb-shield]: https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&labelColor=black&logo=facebook
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Yang.Ming.Han.tw) https://www.facebook.com/Yang.Ming.Han.tw
+
+
 
 <!--
 **whuang022ai/whuang022ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

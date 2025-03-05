@@ -37,12 +37,6 @@ I have another github account : https://github.com/whuang022nccu
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/whuang022ai?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
-### Language Used
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whuang022ai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whuang022ai)
-
-
 <!--
 **whuang022ai/whuang022ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

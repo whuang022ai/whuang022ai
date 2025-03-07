@@ -38,7 +38,7 @@ I have another github account : https://github.com/whuang022nccu
 
 ### Tech Skills
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=anaconda,bash,opencv,python,pandas,pytorch,numpy,seaborn,scipy,scikitlearn,flask,r,html,js,css,d3,java,nextflow,ubuntu)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=anaconda,bash,opencv,cpp,python,pandas,pytorch,numpy,seaborn,scipy,scikitlearn,flask,r,html,js,css,d3,java,nextflow,ubuntu)
 <!--
 **whuang022ai/whuang022ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

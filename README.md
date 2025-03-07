@@ -36,7 +36,9 @@ I have another github account : https://github.com/whuang022nccu
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/whuang022ai?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
+### Tech Skills
 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=anaconda,bash,opencv,python,pandas,pytorch,numpy,seaborn,scipy,scikitlearn,flask,r,nextflow,ubuntu)
 <!--
 **whuang022ai/whuang022ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

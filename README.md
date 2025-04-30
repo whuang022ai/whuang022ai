@@ -13,9 +13,9 @@
 
 ### About Me 🇹🇼 🇺🇸
 
-My name is Ming Han Yang (楊明翰) and interested in biotechnology , artificial intelligence and machine learning. 
-I am currently a bioinformatics software engineer and also had  experience in a startup company of natural language processing and machine learning.
-I have another github account : https://github.com/whuang022nccu
+I am Ming Han Yang (楊明翰), interested in biotechnology, artificial intelligence, and machine learning. 
+I am currently a bioinformatics software engineer and also have experience in a startup company of natural language processing and machine learning.
+I have another GitHub account: https://github.com/whuang022nccu
 
 ### AI & Biotechnology Research Website
 
@@ -31,6 +31,12 @@ I have another github account : https://github.com/whuang022nccu
 - [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]( https://www.linkedin.com/in/ming-han-yang-us/) https://www.linkedin.com/in/ming-han-yang-us/
 
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Yang.Ming.Han.tw) https://www.facebook.com/Yang.Ming.Han.tw
+
+### Support Me
+
+Buy Me a Coffee 
+
+<img src="https://github.com/user-attachments/assets/5a0fd661-c47a-47db-8e70-0d0b06cf4fdd" width="100">
 
 ### Status
 

@@ -32,6 +32,7 @@ I have another GitHub account: https://github.com/whuang022nccu
 
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Yang.Ming.Han.tw) https://www.facebook.com/Yang.Ming.Han.tw
 
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@whuang022) https://medium.com/@whuang022
 ### Support Me
 
 Buy Me a Coffee 

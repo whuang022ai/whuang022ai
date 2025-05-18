@@ -27,7 +27,7 @@ I have another GitHub account: https://github.com/whuang022nccu
 ### 研究網站
 
 - [www.next-bioinfo.tw](https://www.next-bioinfo.tw/en/)
-- [AIStudio.TW ](https://aistudio.tw/)
+- [AI STUDIO.TW ](https://aistudio.tw/)
 
 <h1></h1>
 

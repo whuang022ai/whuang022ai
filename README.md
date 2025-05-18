@@ -30,9 +30,7 @@ I have another GitHub account: https://github.com/whuang022nccu
 ### New Posts
 ### 近期文章
 
-Some technique posts for sharing recently :
-
-近期的一些技術文章 :
+Some technique posts for sharing recently 
 
 - [Gene2vec distributed representation of genes pipeline reproduction](https://www.next-bioinfo.tw/en/?p=408) Jul 5, 2020
 

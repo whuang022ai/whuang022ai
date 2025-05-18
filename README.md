@@ -14,8 +14,8 @@
 ### About Me 🇹🇼 🇺🇸
 ### 關於我
 
-Hi, I am Ming Han Yang , interested in biotechnology, artificial intelligence, and machine learning. 
-I am currently a bioinformatics software engineer and have experience in a startup company of natural language processing and machine learning.
+Hi, I am Ming Han Yang, interested in biotechnology, artificial intelligence, and machine learning. 
+I am a bioinformatics software engineer and have experience in a startup company of natural language processing and machine learning.
 I have another GitHub account: https://github.com/whuang022nccu
 
 哈囉，大家好，我是楊明翰，興趣是生物資訊、生物技術、人工智慧以及機器學習。目前是生物資訊的軟體工程師，過去也有一些創業的經驗(自然語言處理、AI相關)。
@@ -24,7 +24,7 @@ I have another GitHub account: https://github.com/whuang022nccu
 <h1></h1>
 
 ### AI & Biotechnology Research Website 
-### 個人網站
+### 研究網站
 
 - [www.next-bioinfo.tw](https://www.next-bioinfo.tw/en/)
 - [AIStudio.TW ](https://aistudio.tw/)

@@ -21,11 +21,15 @@ I have another GitHub account: https://github.com/whuang022nccu
 哈囉，大家好，我是楊明翰，興趣是生物資訊、生物技術、人工智慧以及機器學習。目前是生物資訊的軟體工程師，過去也有一些創業的經驗(自然語言處理、AI相關)。
 我的另一個Github帳號 https://github.com/whuang022nccu
 
+<h1></h1>
+
 ### AI & Biotechnology Research Website 
 ### 個人網站
 
 - [www.next-bioinfo.tw](https://www.next-bioinfo.tw/en/)
 - [AIStudio.TW ](https://aistudio.tw/)
+
+<h1></h1>
 
 ### New Posts
 ### 近期文章
@@ -33,6 +37,8 @@ I have another GitHub account: https://github.com/whuang022nccu
 Some technique posts for sharing recently 
 
 - [Gene2vec distributed representation of genes pipeline reproduction](https://www.next-bioinfo.tw/en/?p=408) Jul 5, 2020
+
+<h1></h1>
 
 ### Contact with Me
 ### 追蹤我
@@ -47,6 +53,8 @@ Welcome to reach me at the following social media
 
 - [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@whuang022) https://medium.com/@whuang022
 
+<h1></h1>
+
 ### Support Me
 ### 支持
 
@@ -56,10 +64,14 @@ Buy me a Coffee to support my work
 
 <img src="https://github.com/user-attachments/assets/5a0fd661-c47a-47db-8e70-0d0b06cf4fdd" width="100">
 
+<h1></h1>
+
 ### Status
 ### 扣頂即時動態
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/whuang022ai?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
+
+<h1></h1>
 
 ### Tech Skills
 ### 技能樹

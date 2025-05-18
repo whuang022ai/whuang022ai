@@ -31,6 +31,9 @@ I have another GitHub account: https://github.com/whuang022nccu
 
 ### Contact with Me
 
+Welcome to reach me at the following social media
+歡迎透過以下社群媒體連結追蹤我
+
 - [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]( https://www.linkedin.com/in/ming-han-yang-us/) https://www.linkedin.com/in/ming-han-yang-us/
 
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Yang.Ming.Han.tw) https://www.facebook.com/Yang.Ming.Han.tw

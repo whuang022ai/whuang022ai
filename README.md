@@ -25,7 +25,7 @@ I have another GitHub account: https://github.com/whuang022nccu
 
 <h1></h1>
 
-### AI & Biotechnology Research Website 
+### 🪐 AI & Biotechnology Research Website 
 ### 研究網站
 
 - [www.next-bioinfo.tw](https://www.next-bioinfo.tw/en/)
@@ -33,17 +33,18 @@ I have another GitHub account: https://github.com/whuang022nccu
 
 <h1></h1>
 
-### New Posts
+###  🌱 New Posts
 ### 近期文章
 
 Some technique posts for sharing recently 
 
-- [Demultiplexing of the 10X Genomics CMO part](https://www.next-bioinfo.tw/en/?p=286) ,Sep 3, 2023
-- [Gene2vec distributed representation of genes pipeline reproduction](https://www.next-bioinfo.tw/en/?p=408) Jul 5, 2020
+📌- [Demultiplexing of the 10X Genomics CMO part](https://www.next-bioinfo.tw/en/?p=286) ,Sep 3, 2023
+
+📌- [Gene2vec distributed representation of genes pipeline reproduction](https://www.next-bioinfo.tw/en/?p=408) Jul 5, 2020
 
 <h1></h1>
 
-### Contact with Me
+### 🔗 Contact with Me
 ### 追蹤我
 
 Welcome to reach me at the following social media
@@ -58,7 +59,7 @@ Welcome to reach me at the following social media
 
 <h1></h1>
 
-### Support Me
+### 💪 Support Me
 ### 支持
 
 Buy me a Coffee to support my work
@@ -72,14 +73,14 @@ Buy me a Coffee to support my work
 
 <h1></h1>
 
-### Status
+### 📊 Status
 ### 扣頂即時動態
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/whuang022ai?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <h1></h1>
 
-### Tech Skills
+### ⚙️ Tech Skills
 ### 技能樹
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=anaconda,bash,opencv,cpp,python,pandas,pytorch,numpy,seaborn,scipy,scikitlearn,flask,r,html,js,css,d3,java,nextflow,ubuntu&theme=light)

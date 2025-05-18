@@ -36,6 +36,7 @@ I have another GitHub account: https://github.com/whuang022nccu
 
 Some technique posts for sharing recently 
 
+- [Demultiplexing of the 10X Genomics CMO part](https://www.next-bioinfo.tw/en/?p=286) ,Sep 3, 2023
 - [Gene2vec distributed representation of genes pipeline reproduction](https://www.next-bioinfo.tw/en/?p=408) Jul 5, 2020
 
 <h1></h1>

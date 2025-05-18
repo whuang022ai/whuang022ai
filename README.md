@@ -31,7 +31,7 @@ Some technique posts for sharing recently :
 
 近期的一些技術文章 :
 
-- [Gene2vec distributed representation of genes pipeline reproduction](https://www.next-bioinfo.tw/en/?p=408)
+- [Gene2vec distributed representation of genes pipeline reproduction](https://www.next-bioinfo.tw/en/?p=408) Jul 5, 2020
 
 ### Contact with Me
 

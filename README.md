@@ -60,7 +60,7 @@ Welcome to reach me at the following social media
 <h1></h1>
 
 ### 💪 Support Me
-### 支持
+### 支持我
 
 Buy me a Coffee to support my work
 
@@ -69,7 +69,6 @@ Buy me a Coffee to support my work
 請我喝杯咖啡，抖內支持我生產更多作品
 
 <img src="https://github.com/user-attachments/assets/c3992593-f936-4467-89ae-012ccbf780f6" width="100">
-
 
 <h1></h1>
 

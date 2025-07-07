@@ -16,12 +16,16 @@
 
 Hi, I'm Ming Han Yang, and I'm interested in biotechnology, artificial intelligence, and machine learning. 
 I'm a bioinformatics software engineer with experience in a startup company specializing in natural language processing and machine learning.
-I have another GitHub account: https://github.com/whuang022nccu
+I have another GitHub account ID [whuang022nccu](https://github.com/whuang022nccu).
+
+Welcome to any collaboration, especially projects related to machine learning or data analysis.
 
 哈囉，大家好！
 
 我是楊明翰，興趣是生物資訊、生物技術、人工智慧以及機器學習。目前是生物資訊的軟體工程師，過去也有一些創業的經驗(自然語言處理、AI相關)。
-我的另一個Github帳號 https://github.com/whuang022nccu
+我的另一個Github帳號  ID [whuang022nccu](https://github.com/whuang022nccu).
+
+歡迎任何形式的合作，特別是機器學習或是資料分析的專案
 
 <h1></h1>
 

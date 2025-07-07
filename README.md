@@ -32,7 +32,7 @@ Welcome to any collaboration, especially projects related to machine learning or
 ### 🪐 AI & Biotechnology Research Website 
 ### 研究網站
 
-- [www.next-bioinfo.tw](https://www.next-bioinfo.tw/en/)
+- [WWW.NEXT-BIOINFO.TW](https://www.next-bioinfo.tw/en/)
 - [AI STUDIO.TW ](https://aistudio.tw/)
 
 <h1></h1>

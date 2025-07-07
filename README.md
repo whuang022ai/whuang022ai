@@ -78,6 +78,10 @@ Welcome to reach me at the following social media
 
 - [Taiwan NLP and AI Group](https://www.facebook.com/groups/Taiwan.NLP/)
   台灣自然語言處理與人工智慧交流社(Taiwan.NLP)
+  
+  Taiwan NLP is the largest and professional natural language processing and understanding community in Taiwan currently. Founded in 2016, and focus on this topic so far, we are aiming to create a better cooperation platform for NLP people to grow together, support each other, and let the AI revolution.
+
+  
 
 ### 💪 Support Me
 ### 支持我

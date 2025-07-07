@@ -73,6 +73,12 @@ Welcome to reach me at the following social media
 
 <h1></h1>
 
+### 👥 Community
+### 社群組織
+
+- [Taiwan NLP and AI Group](https://www.facebook.com/groups/Taiwan.NLP/)
+  台灣自然語言處理與人工智慧交流社(Taiwan.NLP)
+
 ### 💪 Support Me
 ### 支持我
 

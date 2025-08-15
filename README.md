@@ -79,7 +79,8 @@ Welcome to reach me at the following social media
 ### 社群組織
 
 - Founder / [Taiwan NLP and AI Group](https://www.facebook.com/groups/Taiwan.NLP/) 19,000 up Member
-  
+  <img width="655" height="179" alt="twnlp2-01" src="https://github.com/user-attachments/assets/0443b946-fa2d-4915-bb56-448355d53b48" />
+
   台灣自然語言處理與人工智慧交流社(Taiwan.NLP) 1.9 萬 成員
   
   Taiwan NLP is the largest and professional natural language processing and understanding community in Taiwan currently. Founded in 2016, and focus on this topic so far, we are aiming to create a better cooperation platform for NLP people to grow together, support each other, and let the AI revolution.

@@ -88,7 +88,7 @@ Welcome to reach me at the following social media
 
   
 
-### 💪 Support Me
+### 💪 Tip Me for support
 ### 支持我
 
 Buy me a Coffee to support my work

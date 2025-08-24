@@ -63,7 +63,7 @@ Some technique posts for sharing recently
 ### 🔗 Contact with Me
 ### 追蹤我
 
-Welcome to reach me at the following social media
+Welcome to keep in touch with me at the following social media
 
 歡迎透過以下社群媒體連結追蹤我
 

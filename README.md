@@ -9,7 +9,7 @@
 
 <br>
 
-<h1>Hello All 👋 </h1>
+<h1>Hello Folks 👋 </h1>
 
 ### About Me 🇹🇼 🇺🇸
 ### 關於我
